@@ -1,0 +1,11 @@
+User_ID,Typing_Speed_(WPM),Error_Count,Website,Session_Duration_(minutes)
+1,50,5,Website A,45
+1,55,3,Website A,60
+1,45,7,Website B,30
+1,60,2,Website B,40
+1,40,9,Website C,25
+1,65,1,Website C,55
+1,58,4,Website A,38
+1,52,6,Website A,42
+1,48,8,Website B,33
+1,53,3,Website C,50
