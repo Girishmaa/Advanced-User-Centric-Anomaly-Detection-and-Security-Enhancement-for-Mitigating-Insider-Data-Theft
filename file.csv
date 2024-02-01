@@ -1,0 +1,8 @@
+file_name,file_size,file_type,access_frequency,,confidential
+aaa,100,txt,5,,0
+bbb,200,doc,10,,0
+ccc,150,pdf,3,,1
+ddd,300,txt,8,,0
+eee,120,pdf,2,,1
+fff,250,doc,6,,0
+ggg,180,txt,4,,1
